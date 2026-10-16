@@ -1,0 +1,22 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE generated files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.code-workspace
+*.suo
+*.VC.db
+*.VC.opendb
+shadertoolsconfig.json
+
+# OS files
+Thumbs.db
+.DS_Store
